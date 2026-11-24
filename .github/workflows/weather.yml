@@ -1,0 +1,53 @@
+name: Publish aerodrome wind CSV
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '13,43 * * * *'
+concurrency:
+  group: airport-wind-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Read JMA Part 1 and TAF
+        run: node publish.mjs public
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+        id: deployment
+      - name: Record daily published feed status
+        if: github.event_name == 'schedule'
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          set -euo pipefail
+          today=$(date -u +%F)
+          git fetch --no-tags origin refs/heads/feed-state:refs/remotes/origin/feed-state || true
+          parent=$(git rev-parse --verify refs/remotes/origin/feed-state 2>/dev/null || true)
+          if [ -n "$parent" ] && [ "$(git show -s --format=%s "$parent")" = "Weather feed published $today" ]; then exit 0; fi
+          blob=$(git hash-object -w public/health.json)
+          tree=$(printf '100644 blob %s\thealth.json\n' "$blob" | git mktree)
+          parents=()
+          if [ -n "$parent" ]; then parents=(-p "$parent"); fi
+          commit=$(git commit-tree "$tree" "${parents[@]}" -m "Weather feed published $today")
+          git push origin "$commit:refs/heads/feed-state"
