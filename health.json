@@ -1,8 +1,6 @@
 {
-  "generated": "2026-11-24T19:04:05.882Z",
-  "jma": 167,
-  "taf": 0,
-  "errors": {
-    "taf": "The operation was aborted due to timeout"
-  }
+  "generated": "2026-11-25T03:00:17.046Z",
+  "jma": 165,
+  "taf": 46,
+  "errors": {}
 }
