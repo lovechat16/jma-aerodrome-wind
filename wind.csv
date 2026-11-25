@@ -1,212 +1,187 @@
 ICAO,開始 JST,終了 JST,予報風 MAG,補足,発表 JST,出典,優先度,原図・原文,更新 JST
-RJFM,46351.375,46351.416666666664,290° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.416666666664,46351.458333333336,280° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.458333333336,46351.5,140° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.5,46351.541666666664,130° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.541666666664,46351.583333333336,140° / 12 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.583333333336,46351.625,150° / 16 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.625,46351.666666666664,150° / 14 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.666666666664,46351.708333333336,180° / 12 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.708333333336,46351.75,220° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.75,46351.791666666664,250° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.791666666664,46351.833333333336,260° / 12 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFM,46351.833333333336,46351.875,270° / 12 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.500197291665
-RJFK,46351.375,46351.416666666664,350° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.416666666664,46351.458333333336,340° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.458333333336,46351.5,340° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.5,46351.541666666664,330° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.541666666664,46351.583333333336,330° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.583333333336,46351.625,320° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.625,46351.666666666664,320° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.666666666664,46351.708333333336,320° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.708333333336,46351.75,320° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.75,46351.791666666664,330° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.791666666664,46351.833333333336,340° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFK,46351.833333333336,46351.875,350° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.500197291665
-RJFO,46351.375,46351.416666666664,320° / 12 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.416666666664,46351.458333333336,320° / 13 kt,TEMPO 320° / 15G25 kt,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.458333333336,46351.5,320° / 13 kt,TEMPO 320° / 15G25 kt,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.5,46351.541666666664,320° / 13 kt,TEMPO 320° / 15G25 kt,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.541666666664,46351.583333333336,320° / 12 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.583333333336,46351.625,320° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.625,46351.666666666664,320° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.666666666664,46351.708333333336,320° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.708333333336,46351.75,310° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.75,46351.791666666664,300° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.791666666664,46351.833333333336,290° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFO,46351.833333333336,46351.875,270° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.500197291665
-RJFU,46351.375,46351.416666666664,350° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.416666666664,46351.458333333336,340° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.458333333336,46351.5,340° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.5,46351.541666666664,330° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.541666666664,46351.583333333336,330° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.583333333336,46351.625,320° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.625,46351.666666666664,320° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.666666666664,46351.708333333336,310° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.708333333336,46351.75,300° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.75,46351.791666666664,280° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.791666666664,46351.833333333336,230° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFU,46351.833333333336,46351.875,210° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.500197291665
-RJFS,46351.375,46351.416666666664,310° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.416666666664,46351.458333333336,310° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.458333333336,46351.5,300° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.5,46351.541666666664,300° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.541666666664,46351.583333333336,300° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.583333333336,46351.625,290° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.625,46351.666666666664,290° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.666666666664,46351.708333333336,290° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.708333333336,46351.75,280° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.75,46351.791666666664,270° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.791666666664,46351.833333333336,270° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFS,46351.833333333336,46351.875,280° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.500197291665
-RJFT,46351.375,46351.416666666664,340° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.416666666664,46351.458333333336,320° / 5 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.458333333336,46351.5,300° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.5,46351.541666666664,290° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.541666666664,46351.583333333336,270° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.583333333336,46351.625,250° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.625,46351.666666666664,230° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.666666666664,46351.708333333336,200° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.708333333336,46351.75,150° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.75,46351.791666666664,140° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.791666666664,46351.833333333336,120° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFT,46351.833333333336,46351.875,100° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.500197291665
-RJFG,46351.375,46351.416666666664,320° / 14 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.416666666664,46351.458333333336,320° / 12 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.458333333336,46351.5,320° / 14 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.5,46351.541666666664,320° / 12 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.541666666664,46351.583333333336,310° / 12 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.583333333336,46351.625,310° / 12 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.625,46351.666666666664,310° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.666666666664,46351.708333333336,300° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.708333333336,46351.75,300° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.75,46351.791666666664,300° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.791666666664,46351.833333333336,300° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFG,46351.833333333336,46351.875,310° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.500197291665
-RJFC,46351.375,46351.416666666664,330° / 18 kt,TEMPO 330° / 20G30 kt,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.416666666664,46351.458333333336,330° / 18 kt,TEMPO 330° / 20G30 kt,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.458333333336,46351.5,330° / 16 kt,TEMPO 330° / 18G28 kt,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.5,46351.541666666664,330° / 16 kt,TEMPO 330° / 18G28 kt,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.541666666664,46351.583333333336,330° / 14 kt,TEMPO 320° / 16G26 kt,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.583333333336,46351.625,320° / 12 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.625,46351.666666666664,320° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.666666666664,46351.708333333336,310° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.708333333336,46351.75,310° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.75,46351.791666666664,300° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFC,46351.791666666664,46351.833333333336,300° / 4 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.500197291665
-RJFE,46351.375,46351.416666666664,360° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJFE,46351.416666666664,46351.458333333336,360° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJFE,46351.458333333336,46351.5,360° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJFE,46351.5,46351.541666666664,360° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJFE,46351.541666666664,46351.583333333336,350° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJFE,46351.583333333336,46351.625,340° / 4 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJFE,46351.625,46351.666666666664,340° / 4 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJFE,46351.666666666664,46351.708333333336,330° / 4 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJFE,46351.708333333336,46351.75,300° / 4 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJFE,46351.791666666664,46351.833333333336,110° / 4 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.500197291665
-RJOM,46351.375,46351.416666666664,290° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.416666666664,46351.458333333336,290° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.458333333336,46351.5,280° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.5,46351.541666666664,260° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.541666666664,46351.583333333336,250° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.583333333336,46351.625,240° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.625,46351.666666666664,240° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.666666666664,46351.708333333336,250° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.708333333336,46351.75,260° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.75,46351.791666666664,270° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.791666666664,46351.833333333336,270° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOM,46351.833333333336,46351.875,270° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.500197291665
-RJOK,46351.375,46351.416666666664,340° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.416666666664,46351.458333333336,330° / 10 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.458333333336,46351.5,320° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.5,46351.541666666664,210° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.541666666664,46351.583333333336,200° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.583333333336,46351.625,180° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.625,46351.666666666664,150° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.666666666664,46351.708333333336,140° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.708333333336,46351.75,020° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.75,46351.791666666664,010° / 8 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.791666666664,46351.833333333336,010° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOK,46351.833333333336,46351.875,360° / 6 kt,,46351.336805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.500197291665
-RJOA,46351.375,46351.416666666664,290° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.416666666664,46351.458333333336,290° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.458333333336,46351.5,290° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.5,46351.541666666664,290° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.541666666664,46351.583333333336,290° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.583333333336,46351.625,290° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.625,46351.666666666664,300° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.666666666664,46351.708333333336,310° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.708333333336,46351.75,310° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.75,46351.791666666664,320° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.791666666664,46351.833333333336,320° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOA,46351.833333333336,46351.875,320° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.500197291665
-RJOT,46351.375,46351.416666666664,290° / 14 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.416666666664,46351.458333333336,290° / 14 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.458333333336,46351.5,280° / 14 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.5,46351.541666666664,280° / 12 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.541666666664,46351.583333333336,280° / 12 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.583333333336,46351.625,270° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.625,46351.666666666664,260° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.666666666664,46351.708333333336,240° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.708333333336,46351.75,220° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.75,46351.791666666664,200° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.791666666664,46351.833333333336,190° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOT,46351.833333333336,46351.875,180° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.500197291665
-RJOB,46351.375,46351.416666666664,270° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.416666666664,46351.458333333336,270° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.458333333336,46351.5,270° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.5,46351.541666666664,270° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.541666666664,46351.583333333336,270° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.583333333336,46351.625,270° / 10 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.625,46351.666666666664,270° / 8 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.666666666664,46351.708333333336,280° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.708333333336,46351.75,290° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.75,46351.791666666664,300° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.791666666664,46351.833333333336,300° / 6 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJOB,46351.833333333336,46351.875,300° / 4 kt,,46351.3375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.500197291665
-RJFK,46351.375,46352.25,330° / 10 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFK&format=raw,46351.500197291665
-RJFK,46352.25,46352.375,BECMG 330° / 10 kt → 090° / 4 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFK&format=raw,46351.500197291665
-RJFK,46352.375,46352.625,090° / 4 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFK&format=raw,46351.500197291665
-RJFM,46351.375,46351.416666666664,290° / 10 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFM&format=raw,46351.500197291665
-RJFM,46351.416666666664,46351.5,BECMG 290° / 10 kt → 140° / 12 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFM&format=raw,46351.500197291665
-RJFM,46351.5,46351.666666666664,140° / 12 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFM&format=raw,46351.500197291665
-RJFM,46351.666666666664,46351.75,BECMG 140° / 12 kt → 260° / 12 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFM&format=raw,46351.500197291665
-RJFM,46351.75,46352.625,260° / 12 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFM&format=raw,46351.500197291665
-RJFO,46351.375,46351.416666666664,320° / 10 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFO&format=raw,46351.500197291665
-RJFO,46351.416666666664,46351.541666666664,320° / 10 kt,TEMPO 320° / 15G25 kt,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFO&format=raw,46351.500197291665
-RJFO,46351.541666666664,46351.791666666664,320° / 10 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFO&format=raw,46351.500197291665
-RJFO,46351.791666666664,46351.875,BECMG 320° / 10 kt → 230° / 6 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFO&format=raw,46351.500197291665
-RJFO,46351.875,46352.625,230° / 6 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFO&format=raw,46351.500197291665
-RJFS,46351.375,46351.875,300° / 6 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFS&format=raw,46351.500197291665
-RJFS,46351.875,46352,BECMG 300° / 6 kt → 160° / 8 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFS&format=raw,46351.500197291665
-RJFS,46352,46352.625,160° / 8 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFS&format=raw,46351.500197291665
-RJFT,46351.375,46351.458333333336,BECMG 010° / 4 kt → 320° / 5 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFT&format=raw,46351.500197291665
-RJFT,46351.458333333336,46351.666666666664,320° / 5 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFT&format=raw,46351.500197291665
-RJFT,46351.666666666664,46351.75,BECMG 320° / 5 kt → 150° / 4 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFT&format=raw,46351.500197291665
-RJFT,46351.75,46352.625,150° / 4 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFT&format=raw,46351.500197291665
-RJFU,46351.375,46351.75,330° / 10 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFU&format=raw,46351.500197291665
-RJFU,46351.75,46351.833333333336,BECMG 330° / 10 kt → 140° / 8 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFU&format=raw,46351.500197291665
-RJFU,46351.833333333336,46352.625,140° / 8 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFU&format=raw,46351.500197291665
-RJOA,46351.375,46352.375,290° / 10 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOA&format=raw,46351.500197291665
-RJOA,46352.375,46352.5,BECMG 290° / 10 kt → 230° / 6 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOA&format=raw,46351.500197291665
-RJOA,46352.5,46352.625,230° / 6 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOA&format=raw,46351.500197291665
-RJOB,46351.375,46352.125,270° / 10 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.500197291665
-RJOB,46352.125,46352.25,BECMG 270° / 10 kt → 040° / 6 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.500197291665
-RJOB,46352.25,46352.375,040° / 6 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.500197291665
-RJOB,46352.375,46352.5,BECMG 040° / 6 kt → 220° / 6 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.500197291665
-RJOB,46352.5,46352.625,220° / 6 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.500197291665
-RJOK,46351.375,46351.458333333336,330° / 10 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.500197291665
-RJOK,46351.458333333336,46351.541666666664,BECMG 330° / 10 kt → 180° / 6 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.500197291665
-RJOK,46351.541666666664,46351.666666666664,180° / 6 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.500197291665
-RJOK,46351.666666666664,46351.75,BECMG 180° / 6 kt → 360° / 8 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.500197291665
-RJOK,46351.75,46352.375,360° / 8 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.500197291665
-RJOK,46352.375,46352.5,BECMG 360° / 8 kt → 190° / 6 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.500197291665
-RJOK,46352.5,46352.625,190° / 6 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.500197291665
-RJOM,46351.375,46352,290° / 10 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOM&format=raw,46351.500197291665
-RJOM,46352,46352.125,BECMG 290° / 10 kt → 150° / 10 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOM&format=raw,46351.500197291665
-RJOM,46352.125,46352.375,150° / 10 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOM&format=raw,46351.500197291665
-RJOM,46352.375,46352.5,BECMG 150° / 10 kt → 210° / 8 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOM&format=raw,46351.500197291665
-RJOM,46352.5,46352.625,210° / 8 kt,,46351.336805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOM&format=raw,46351.500197291665
-RJOT,46351.375,46351.666666666664,280° / 12 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOT&format=raw,46351.500197291665
-RJOT,46351.666666666664,46351.75,BECMG 280° / 12 kt → 220° / 6 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOT&format=raw,46351.500197291665
-RJOT,46351.75,46352.625,220° / 6 kt,,46351.3375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOT&format=raw,46351.500197291665
+RJFM,46351.875,46351.916666666664,270° / 12 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46351.916666666664,46351.958333333336,270° / 12 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46351.958333333336,46352,270° / 12 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46352,46352.041666666664,280° / 12 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46352.041666666664,46352.083333333336,280° / 10 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46352.083333333336,46352.125,280° / 10 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46352.125,46352.166666666664,280° / 10 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46352.166666666664,46352.208333333336,280° / 10 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46352.208333333336,46352.25,280° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46352.25,46352.291666666664,280° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46352.291666666664,46352.333333333336,290° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFM,46352.333333333336,46352.375,290° / 10 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFM.png,46351.90430429398
+RJFK,46351.875,46351.916666666664,360° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46351.916666666664,46351.958333333336,010° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46351.958333333336,46352,360° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46352,46352.041666666664,360° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46352.041666666664,46352.083333333336,360° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46352.083333333336,46352.125,010° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46352.125,46352.166666666664,010° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46352.166666666664,46352.208333333336,010° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46352.208333333336,46352.25,020° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46352.25,46352.291666666664,020° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46352.291666666664,46352.333333333336,020° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFK,46352.333333333336,46352.375,030° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFK.png,46351.90430429398
+RJFO,46351.875,46351.916666666664,250° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46351.916666666664,46351.958333333336,250° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46351.958333333336,46352,240° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46352,46352.041666666664,240° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46352.041666666664,46352.083333333336,240° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46352.083333333336,46352.125,230° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46352.125,46352.166666666664,230° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46352.166666666664,46352.208333333336,220° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46352.208333333336,46352.25,220° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46352.25,46352.291666666664,220° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46352.291666666664,46352.333333333336,220° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFO,46352.333333333336,46352.375,220° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFO.png,46351.90430429398
+RJFU,46351.875,46351.916666666664,150° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46351.916666666664,46351.958333333336,150° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46351.958333333336,46352,150° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46352,46352.041666666664,150° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46352.041666666664,46352.083333333336,150° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46352.083333333336,46352.125,150° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46352.125,46352.166666666664,150° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46352.166666666664,46352.208333333336,150° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46352.208333333336,46352.25,150° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46352.25,46352.291666666664,150° / 10 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46352.291666666664,46352.333333333336,150° / 10 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFU,46352.333333333336,46352.375,150° / 10 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFU.png,46351.90430429398
+RJFS,46351.875,46351.916666666664,170° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46351.916666666664,46351.958333333336,170° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46351.958333333336,46352,150° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46352,46352.041666666664,130° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46352.041666666664,46352.083333333336,110° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46352.083333333336,46352.125,100° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46352.125,46352.166666666664,090° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46352.166666666664,46352.208333333336,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46352.208333333336,46352.25,060° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46352.25,46352.291666666664,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46352.291666666664,46352.333333333336,070° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFS,46352.333333333336,46352.375,090° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFS.png,46351.90430429398
+RJFT,46351.875,46351.916666666664,070° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46351.916666666664,46351.958333333336,070° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46351.958333333336,46352,070° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46352,46352.041666666664,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46352.041666666664,46352.083333333336,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46352.083333333336,46352.125,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46352.125,46352.166666666664,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46352.166666666664,46352.208333333336,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46352.208333333336,46352.25,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46352.25,46352.291666666664,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46352.291666666664,46352.333333333336,070° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFT,46352.333333333336,46352.375,070° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFT.png,46351.90430429398
+RJFG,46351.875,46351.916666666664,320° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.90430429398
+RJFG,46351.916666666664,46351.958333333336,310° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.90430429398
+RJFG,46352,46352.041666666664,320° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.90430429398
+RJFG,46352.041666666664,46352.083333333336,320° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.90430429398
+RJFG,46352.083333333336,46352.125,320° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.90430429398
+RJFG,46352.125,46352.166666666664,320° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.90430429398
+RJFG,46352.166666666664,46352.208333333336,320° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.90430429398
+RJFG,46352.208333333336,46352.25,310° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.90430429398
+RJFG,46352.291666666664,46352.333333333336,300° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFG.png,46351.90430429398
+RJFC,46351.875,46351.916666666664,310° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.90430429398
+RJFC,46351.916666666664,46351.958333333336,310° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.90430429398
+RJFC,46352,46352.041666666664,310° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.90430429398
+RJFC,46352.041666666664,46352.083333333336,300° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.90430429398
+RJFC,46352.083333333336,46352.125,300° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.90430429398
+RJFC,46352.125,46352.166666666664,280° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.90430429398
+RJFC,46352.166666666664,46352.208333333336,270° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.90430429398
+RJFC,46352.208333333336,46352.25,240° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.90430429398
+RJFC,46352.291666666664,46352.333333333336,150° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFC.png,46351.90430429398
+RJFE,46351.875,46351.916666666664,050° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJFE,46351.916666666664,46351.958333333336,220° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJFE,46352,46352.041666666664,230° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJFE,46352.041666666664,46352.083333333336,240° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJFE,46352.083333333336,46352.125,250° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJFE,46352.125,46352.166666666664,250° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJFE,46352.166666666664,46352.208333333336,230° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJFE,46352.208333333336,46352.25,230° / 4 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJFE,46352.291666666664,46352.333333333336,220° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJFE,46352.333333333336,46352.375,220° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJFE.png,46351.90430429398
+RJOM,46351.875,46351.916666666664,130° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46351.916666666664,46351.958333333336,130° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46351.958333333336,46352,130° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46352,46352.041666666664,140° / 12 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46352.041666666664,46352.083333333336,150° / 12 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46352.083333333336,46352.125,150° / 10 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46352.125,46352.166666666664,140° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46352.166666666664,46352.208333333336,130° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46352.208333333336,46352.25,130° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46352.25,46352.291666666664,140° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46352.291666666664,46352.333333333336,160° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOM,46352.333333333336,46352.375,170° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOM.png,46351.90430429398
+RJOK,46351.875,46351.916666666664,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46351.916666666664,46351.958333333336,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46351.958333333336,46352,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46352,46352.041666666664,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46352.041666666664,46352.083333333336,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46352.083333333336,46352.125,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46352.125,46352.166666666664,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46352.166666666664,46352.208333333336,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46352.208333333336,46352.25,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46352.25,46352.291666666664,360° / 8 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46352.291666666664,46352.333333333336,340° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOK,46352.333333333336,46352.375,320° / 6 kt,,46351.836805555555,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOK.png,46351.90430429398
+RJOA,46351.875,46351.916666666664,310° / 8 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46351.916666666664,46351.958333333336,310° / 8 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46351.958333333336,46352,320° / 8 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46352,46352.041666666664,320° / 8 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46352.041666666664,46352.083333333336,320° / 8 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46352.083333333336,46352.125,320° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46352.125,46352.166666666664,320° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46352.166666666664,46352.208333333336,330° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46352.208333333336,46352.25,330° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46352.25,46352.291666666664,320° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46352.291666666664,46352.333333333336,310° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOA,46352.333333333336,46352.375,300° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOA.png,46351.90430429398
+RJOT,46351.875,46351.916666666664,180° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46351.916666666664,46351.958333333336,180° / 8 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46351.958333333336,46352,180° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46352,46352.041666666664,180° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46352.041666666664,46352.083333333336,180° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46352.083333333336,46352.125,180° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46352.125,46352.166666666664,180° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46352.166666666664,46352.208333333336,190° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46352.208333333336,46352.25,200° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46352.25,46352.291666666664,210° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46352.291666666664,46352.333333333336,230° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOT,46352.333333333336,46352.375,240° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOT.png,46351.90430429398
+RJOB,46351.875,46351.916666666664,290° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46351.916666666664,46351.958333333336,290° / 8 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46351.958333333336,46352,290° / 8 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46352,46352.041666666664,300° / 8 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46352.041666666664,46352.083333333336,310° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46352.083333333336,46352.125,320° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46352.125,46352.166666666664,320° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46352.166666666664,46352.208333333336,330° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46352.208333333336,46352.25,350° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46352.25,46352.291666666664,040° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46352.291666666664,46352.333333333336,100° / 6 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJOB,46352.333333333336,46352.375,120° / 4 kt,,46351.8375,JMA Part 1,1,https://www.data.jma.go.jp/airinfo/data/pict/taf/QMCD98_RJOB.png,46351.90430429398
+RJFK,46351.875,46352.375,360° / 6 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFK&format=raw,46351.90430429398
+RJFK,46352.375,46352.5,BECMG 360° / 6 kt → 130° / 4 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFK&format=raw,46351.90430429398
+RJFK,46352.5,46353.125,130° / 4 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFK&format=raw,46351.90430429398
+RJFM,46351.875,46353.125,280° / 10 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFM&format=raw,46351.90430429398
+RJFO,46351.875,46353.125,250° / 6 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFO&format=raw,46351.90430429398
+RJFS,46351.875,46353.125,170° / 6 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFS&format=raw,46351.90430429398
+RJFT,46351.875,46353.125,070° / 6 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFT&format=raw,46351.90430429398
+RJFU,46351.875,46353.125,150° / 6 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJFU&format=raw,46351.90430429398
+RJOA,46351.875,46353,320° / 8 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOA&format=raw,46351.90430429398
+RJOA,46353,46353.125,BECMG 320° / 8 kt → 040° / 10 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOA&format=raw,46351.90430429398
+RJOB,46351.875,46352.166666666664,320° / 6 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.90430429398
+RJOB,46352.166666666664,46352.25,BECMG 320° / 6 kt → 100° / 6 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.90430429398
+RJOB,46352.25,46352.375,100° / 6 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.90430429398
+RJOB,46352.375,46352.5,BECMG 100° / 6 kt → 220° / 8 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.90430429398
+RJOB,46352.5,46352.625,220° / 8 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.90430429398
+RJOB,46352.625,46352.75,BECMG 220° / 8 kt → 030° / 8 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.90430429398
+RJOB,46352.75,46353.125,030° / 8 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOB&format=raw,46351.90430429398
+RJOK,46351.875,46352.375,360° / 8 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.90430429398
+RJOK,46352.375,46352.5,BECMG 360° / 8 kt → 190° / 6 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.90430429398
+RJOK,46352.5,46352.625,190° / 6 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.90430429398
+RJOK,46352.625,46352.75,BECMG 190° / 6 kt → 360° / 8 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.90430429398
+RJOK,46352.75,46353.125,360° / 8 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOK&format=raw,46351.90430429398
+RJOM,46351.875,46353.125,130° / 8 kt,,46351.836805555555,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOM&format=raw,46351.90430429398
+RJOT,46351.875,46352.625,180° / 6 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOT&format=raw,46351.90430429398
+RJOT,46352.625,46352.75,BECMG 180° / 6 kt → 160° / 10 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOT&format=raw,46351.90430429398
+RJOT,46352.75,46353.125,160° / 10 kt,,46351.8375,TAF,2,https://aviationweather.gov/api/data/taf?ids=RJOT&format=raw,46351.90430429398
